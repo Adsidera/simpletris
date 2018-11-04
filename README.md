@@ -1,5 +1,5 @@
 ## Studying React
-This is just a very simple app for studying React.
+This is just a very simple app for studying React, using Reactstrap styling.
 
 Needed improvements:
   - Display the location for each move in the format (col, row) in the move history list.
